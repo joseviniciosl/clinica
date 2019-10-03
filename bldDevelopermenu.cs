@@ -48,6 +48,7 @@ public class bldDevelopermenu : GxBaseBuilder
       sc.Add( @"bin\arrecetamedica.dll", cs_path + @"\arrecetamedica.rsp");
       sc.Add( @"bin\aloadeventssampleproc.dll", cs_path + @"\aloadeventssampleproc.rsp");
       sc.Add( @"bin\aschedulerrequesthandler.dll", cs_path + @"\aschedulerrequesthandler.rsp");
+      sc.Add( @"bin\default.dll", cs_path + @"\default.rsp");
       sc.Add( @"bin\gx0260.dll", cs_path + @"\gx0260.rsp");
       sc.Add( @"bin\gx00b1.dll", cs_path + @"\gx00b1.rsp");
       sc.Add( @"bin\gx0252.dll", cs_path + @"\gx0252.rsp");
