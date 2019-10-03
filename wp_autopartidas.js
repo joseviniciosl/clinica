@@ -1,0 +1,2 @@
+gx.evt.autoSkip=false;function wp_autopartidas(){this.ServerClass="wp_autopartidas";this.PackageName="GeneXus.Programs";this.setObjectType("web");this.hasEnterEvent=false;this.autoRefresh=true;this.SetStandaloneVars=function(){};this.e123a2_client=function(){this.executeServerEvent("ENTER",true)};this.e133a2_client=function(){this.executeServerEvent("CANCEL",true)};this.GXValidFnc=[];this.GXLastCtrlId=0;this.ServerEvents=["e123a2_client","e133a2_client"];this.SetStandaloneVars()}wp_autopartidas.prototype=new gx.GxObject;
+gx.setParentObj(new wp_autopartidas());

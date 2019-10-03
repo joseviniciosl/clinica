@@ -1,0 +1,4 @@
+ALTER TABLE [Articulo] ADD [ArticuloHonorarioCirujano] money NOT NULL CONSTRAINT ArticuloHonorarioCirujanoArticulo_DEFAULT DEFAULT convert(int, 0)
+ALTER TABLE [Articulo] DROP CONSTRAINT ArticuloHonorarioCirujanoArticulo_DEFAULT
+ALTER TABLE [Articulo] DROP COLUMN [ArticuloHonorarioCirugia]
+

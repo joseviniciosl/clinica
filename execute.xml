@@ -1,0 +1,142 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?><Objects>
+  <Charset>iso-8859-1</Charset>
+  <Path>file:///C:/Program Files (x86)/Artech/GeneXus/GeneXusXEv1/</Path>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>GrupoUsuario</ObjName>
+    <ObjDesc>Grupos de usuarios</ObjDesc>
+    <ObjLink>grupousuario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Usuario</ObjName>
+    <ObjDesc>Usuarios</ObjDesc>
+    <ObjLink>usuario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Menu</ObjName>
+    <ObjDesc>Menús y opciones</ObjDesc>
+    <ObjLink>menu.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Acceso</ObjName>
+    <ObjDesc>Accesos al sistema</ObjDesc>
+    <ObjLink>acceso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Especialidad</ObjName>
+    <ObjDesc>Especialidades médicas</ObjDesc>
+    <ObjLink>especialidad.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Medico</ObjName>
+    <ObjDesc>Médicos</ObjDesc>
+    <ObjLink>medico.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Categoria</ObjName>
+    <ObjDesc>Categorías de productos y servicios</ObjDesc>
+    <ObjLink>categoria.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Articulo</ObjName>
+    <ObjDesc>Maestro de productos y servicios</ObjDesc>
+    <ObjLink>articulo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Pais</ObjName>
+    <ObjDesc>Países</ObjDesc>
+    <ObjLink>pais.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Departamento</ObjName>
+    <ObjDesc>Departamentos</ObjDesc>
+    <ObjLink>departamento.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Clinica</ObjName>
+    <ObjDesc>Clínica Médica</ObjDesc>
+    <ObjLink>clinica.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Cie10</ObjName>
+    <ObjDesc>Clasificación CIE-10</ObjDesc>
+    <ObjLink>cie10.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>TipoCita</ObjName>
+    <ObjDesc>Tipos de citas</ObjDesc>
+    <ObjLink>tipocita.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Agenda</ObjName>
+    <ObjDesc>Agenda de citas</ObjDesc>
+    <ObjLink>agenda.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Correlativo</ObjName>
+    <ObjDesc>Correlativos del sistema</ObjDesc>
+    <ObjLink>correlativo.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>FormaPago</ObjName>
+    <ObjDesc>Formas de pago</ObjDesc>
+    <ObjLink>formapago.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Paciente</ObjName>
+    <ObjDesc>Pacientes</ObjDesc>
+    <ObjLink>paciente.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Consulta</ObjName>
+    <ObjDesc>Consulta de pacientes</ObjDesc>
+    <ObjLink>consulta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Receta</ObjName>
+    <ObjDesc>Recetas de pacientes</ObjDesc>
+    <ObjLink>receta.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>TipoMovInventario</ObjName>
+    <ObjDesc>Tipos de Movimientos de Inventario</ObjDesc>
+    <ObjLink>tipomovinventario.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>0</ObjCls>
+    <ObjName>Bodega</ObjName>
+    <ObjDesc>Bodegas</ObjDesc>
+    <ObjLink>bodega.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>ingreso</ObjName>
+    <ObjDesc>Ingreso al sistema</ObjDesc>
+    <ObjLink>ingreso.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>principal</ObjName>
+    <ObjDesc>Principal</ObjDesc>
+    <ObjLink>principal.aspx</ObjLink>
+  </Object>
+</Objects>

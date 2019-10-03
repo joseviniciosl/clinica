@@ -1,0 +1,2 @@
+gx.evt.autoSkip=false;function wp_pacienteins(){this.ServerClass="wp_pacienteins";this.PackageName="GeneXus.Programs";this.setObjectType("web");this.hasEnterEvent=false;this.addKeyListener("5",'"RFR"');this.autoRefresh=true;this.SetStandaloneVars=function(){};this.e121i2_client=function(){this.executeServerEvent("ENTER",true)};this.e131i2_client=function(){this.executeServerEvent("CANCEL",true)};this.GXValidFnc=[];this.GXLastCtrlId=0;this.SetStandaloneVars()}wp_pacienteins.prototype=new gx.GxObject;
+gx.setParentObj(new wp_pacienteins());
